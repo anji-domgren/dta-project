@@ -1,0 +1,41 @@
+Creating 15 nodes 51 m apart.
+Starting simulation for 100 s ...
+PING 10.0.0.15 - 56 bytes of data; 84 bytes including ICMP and IPv4 headers.
+64 bytes from 10.0.0.15: icmp_seq=0 ttl=51 time=2170.93 ms
+64 bytes from 10.0.0.15: icmp_seq=1 ttl=51 time=1172.65 ms
+64 bytes from 10.0.0.15: icmp_seq=2 ttl=51 time=174.103 ms
+64 bytes from 10.0.0.15: icmp_seq=3 ttl=51 time=11.768 ms
+64 bytes from 10.0.0.15: icmp_seq=4 ttl=51 time=11.712 ms
+64 bytes from 10.0.0.15: icmp_seq=5 ttl=51 time=11.727 ms
+64 bytes from 10.0.0.15: icmp_seq=6 ttl=51 time=12.124 ms
+64 bytes from 10.0.0.15: icmp_seq=7 ttl=51 time=11.68 ms
+64 bytes from 10.0.0.15: icmp_seq=8 ttl=51 time=11.75 ms
+64 bytes from 10.0.0.15: icmp_seq=9 ttl=51 time=11.739 ms
+64 bytes from 10.0.0.15: icmp_seq=10 ttl=51 time=11.964 ms
+64 bytes from 10.0.0.15: icmp_seq=11 ttl=51 time=11.692 ms
+64 bytes from 10.0.0.15: icmp_seq=12 ttl=51 time=11.663 ms
+64 bytes from 10.0.0.15: icmp_seq=13 ttl=51 time=11.768 ms
+64 bytes from 10.0.0.15: icmp_seq=14 ttl=51 time=11.649 ms
+64 bytes from 10.0.0.15: icmp_seq=15 ttl=51 time=11.754 ms
+64 bytes from 10.0.0.15: icmp_seq=16 ttl=51 time=11.77 ms
+64 bytes from 10.0.0.15: icmp_seq=17 ttl=51 time=11.651 ms
+64 bytes from 10.0.0.15: icmp_seq=18 ttl=51 time=12.047 ms
+64 bytes from 10.0.0.15: icmp_seq=19 ttl=51 time=11.868 ms
+64 bytes from 10.0.0.15: icmp_seq=20 ttl=51 time=11.739 ms
+64 bytes from 10.0.0.15: icmp_seq=21 ttl=51 time=11.737 ms
+64 bytes from 10.0.0.15: icmp_seq=22 ttl=51 time=11.726 ms
+64 bytes from 10.0.0.15: icmp_seq=23 ttl=51 time=12.068 ms
+64 bytes from 10.0.0.15: icmp_seq=24 ttl=51 time=11.769 ms
+64 bytes from 10.0.0.15: icmp_seq=25 ttl=51 time=11.65 ms
+64 bytes from 10.0.0.15: icmp_seq=26 ttl=51 time=11.674 ms
+64 bytes from 10.0.0.15: icmp_seq=27 ttl=51 time=11.717 ms
+64 bytes from 10.0.0.15: icmp_seq=28 ttl=51 time=11.651 ms
+64 bytes from 10.0.0.15: icmp_seq=29 ttl=51 time=11.73 ms
+64 bytes from 10.0.0.15: icmp_seq=30 ttl=51 time=11.665 ms
+64 bytes from 10.0.0.15: icmp_seq=31 ttl=51 time=11.698 ms
+64 bytes from 10.0.0.15: icmp_seq=32 ttl=51 time=11.696 ms
+64 bytes from 10.0.0.15: icmp_seq=33 ttl=51 time=11.667 ms
+
+--- 10.0.0.15 ping statistics ---
+100 packets transmitted, 34 received, 66% packet loss, time 99999ms
+rtt min/avg/max/mdev = 11/113.5/2170/414.8 ms

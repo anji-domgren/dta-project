@@ -1,0 +1,6 @@
+Creating 10 nodes 60 m apart.
+Starting simulation for 100 s ...
+PING 10.0.0.10 - 56 bytes of data; 84 bytes including ICMP and IPv4 headers.
+
+--- 10.0.0.10 ping statistics ---
+100 packets transmitted, 0 received, 100% packet loss, time 99999ms
