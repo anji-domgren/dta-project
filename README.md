@@ -1,5 +1,13 @@
 # dta-project
-aodv
+
+// AODV Information
+-------------------------------------------------------------
+--size=X , this creates an X amount of nodes
+
+--step=Y , amount of meters between nodes
+
+--time=Z , simulation runs for Z amount of seconds
+
 
 
 // 10 meter - linear topology
@@ -13,14 +21,6 @@ aodv
 // 60 meter - linear topology
 -------------------------------------------------------------
 ./ns3 run src/aodv/examples/aodv-example.cc -- aodv --size=10 --step=60 --time=100
-
-// Information
--------------------------------------------------------------
---size=X , this creates an X amount of nodes
-
---step=Y , amount of meters between nodes
-
---time=Z , simulation runs for Z amount of seconds
 
 
 // Following was used to redirect to a txt.
