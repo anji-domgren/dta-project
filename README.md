@@ -1,4 +1,4 @@
-# dta-project
+# DTA-PROJECT, AUTUMN 2025
 
 // AODV Information
 -------------------------------------------------------------
@@ -31,4 +31,6 @@
 
 ./ns3 run src/aodv/examples/aodv-example.cc -- aodv --size=10 --step=60 --time=100 > ping60.txt 2>&1
 
-
+// GNUPLOT
+-------------------------------------------------------------
+gnuplot aodv_live_rtt_marked.gp
